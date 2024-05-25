@@ -57,3 +57,14 @@ tongTienMonAn += 10000
 // Tương tự với các phép gán khác
 
 console.log(tongTienMonAn)
+
+//Hằng số
+let tinhLuong = 300000
+let soNgayLam = 24
+let heSoLuongGiamDoc = 2
+let tongTienLuong = tinhLuong * soNgayLam
+
+const HE_SO_LUONG = 2
+// HE_SO_LUONG = 4
+
+console.log(Math.PI)
